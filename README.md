@@ -1,7 +1,7 @@
 # About this project
 O objetivo desse projeto é integrar o Notion e o Google Sheet's para automatizar uma parte dos passos para organização dos inputs diários nescessários.
 
-###Primeiros Passos:
+### Primeiros Passos:
 1. Criar um Project no Google Cloud, [video](https://youtu.be/Urh5BQmssJs).
 2. Criar um Project no Notion [video](https://www.youtube.com/watch?v=sdn1HgxLwEg).
 Você pode assistir só o inicio dos dois video, até o final da criação do project. ;)
