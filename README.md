@@ -20,5 +20,5 @@ Na raiz do projeto temos o arquivo main.py com um exemplo de código, substitua 
 
 
 #### Call to Action:
-Vamos deixar o projeto mais amigavel! 
+Vamos deixar o projeto mais amigavel! <br>
 Contribua com seu PR! 💚    
