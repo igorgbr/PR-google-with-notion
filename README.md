@@ -20,7 +20,7 @@ Você pode assistir só o inicio dos dois video, até a parte da criação do pr
 
 ### Como usar:
 Na raiz do projeto temos o arquivo main.py com um exemplo de código, substitua a o valor da constante `SPREADSHEET_ID` na linha 6 de acordo com o ID da planilha que você ira utilizar, ná dúvida assista este [video](https://youtu.be/Urh5BQmssJs).<br>
-Rode o comando `python -m main.py` na raiz pro projeto para rodar o script.
+Rode o comando `python main.py` na raiz pro projeto para rodar o script.
 
 
 #### Call to Action:
